@@ -12,6 +12,9 @@
 - <strong>Structure Query Language</strong> (MySQL).
 - <strong>Microsoft Excel</strong>.
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/muhammad-wajeeh-arif-923b7917a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="muhammad-wajeeh-arif-923b7917a/" height="30" width="40" /></a>
 
 
 # Github-Stats
