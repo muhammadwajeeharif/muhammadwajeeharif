@@ -1,6 +1,6 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Wajeeh!
 ### About Me 🚀
-🎓 I’m a Data Science enthusiast & pursuing my bachelor in Petroleum Engineering. </br>
+🎓 I’m a Data Science enthusiast & pursuing my bachelor in Petroleum Engineering from NED University of Engineering & Technology. </br>
 👨‍💻 I am passionate about learning Computer vision, Data Visualization & Machine Learning. </br>
 ### Skills 🎓
 - Microsoft Certified <strong>Python</strong> programmer.
