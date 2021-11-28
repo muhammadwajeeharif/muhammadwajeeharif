@@ -3,7 +3,7 @@
 🎓 I’m a Data Science enthusiast & pursuing my bachelor in Petroleum Engineering. </br>
 👨‍💻 I am passionate about learning Computer vision, Data Visualization & Machine Learning. </br>
 ### Skills 🎓
-- Microsoft Certified <strong>python</strong> programmer.
+- Microsoft Certified <strong>Python</strong> programmer.
 - Data Extraction using <strong>Beautiful Soap</strong>.
 - Exploratory Data Analysis using <strong>Numpy</strong> and <strong>Pandas</strong>.
 - Data Visualization with <strong>Matplotlib</strong>,<strong>Seaborn</strong> and <strong>Tableau</strong>.
