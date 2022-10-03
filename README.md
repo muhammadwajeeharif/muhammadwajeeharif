@@ -4,11 +4,9 @@
 👨‍💻 I am passionate about learning Computer vision, Data Visualization & Machine Learning. </br>
 ### Skills 🎓
 - Microsoft Certified <strong>Python</strong> programmer.
-- Data Extraction using <strong>Beautiful Soap</strong>.
 - Exploratory Data Analysis using <strong>Numpy</strong> and <strong>Pandas</strong>.
-- Data Visualization with <strong>Matplotlib</strong>,<strong>Seaborn</strong> and <strong>Tableau</strong>.
+- Data Visualization with <strong>Matplotlib</strong>,<strong>Seaborn</strong>,<strong>Tableau</strong> and <strong>PowerBi</strong>.
 - Predictive Analytics/Machine Learning (Supervised/Unsupervised) using <strong>Scikit-Learn</strong>.
-- Deep Learning  with <strong>TensorFlow</strong>.
 - <strong>Structure Query Language</strong> (MySQL).
 - <strong>Microsoft Excel</strong>.
 
